@@ -1,0 +1,13 @@
+package cn.friday.common.service.global.common;
+
+public class Constant {
+	/**
+	 * 加密密钥
+	 */
+	public static String ENCRYPT_KEY = "TDSx32SJX8S86AS1EE";
+	
+	public static String PARAMETER_ERROR_TIP = "参数错误";
+	
+	public static String OPERATE_FAIL = "操作失败";
+	
+}
